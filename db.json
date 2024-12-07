@@ -1,0 +1,43 @@
+{
+  "allCategory": [
+    {
+      "id": "beaa",
+      "name": "calf",
+      "getAllVideos": []
+    },
+    {
+      "id": "bb51",
+      "name": "Hand",
+      "getAllVideos": []
+    },
+    {
+      "id": "293c",
+      "name": "Legs",
+      "getAllVideos": []
+    },
+    {
+      "id": "6595",
+      "name": "Hand",
+      "getAllVideos": []
+    },
+    {
+      "id": "5ed7",
+      "name": "Legs",
+      "getAllVideos": []
+    },
+    {
+      "id": "ad92",
+      "name": " ",
+      "getAllVideos": []
+    }
+  ],
+  "Chart": [
+    {
+      "id": "589b",
+      "workingTime": "ss",
+      "breakFast": "dd",
+      "Lunch": "dd",
+      "dinner": "ss"
+    }
+  ]
+}
